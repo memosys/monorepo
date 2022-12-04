@@ -1,4 +1,4 @@
-import { RiArrowDownSFill, RiArrowUpSFill } from 'react-icons/ri/index.js';
+import { RiArrowDownSFill, RiArrowUpSFill } from 'react-icons/ri';
 import styled from 'styled-components';
 
 const SorterContainer = styled.div`

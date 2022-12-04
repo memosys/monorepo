@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import { FieldValues, RegisterOptions } from 'react-hook-form';
-import { RiAddCircleLine } from 'react-icons/ri/index.js';
+import { RiAddCircleLine } from 'react-icons/ri';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
 import { v4 as uuidv4 } from 'uuid';

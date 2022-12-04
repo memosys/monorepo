@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
-import { IconType } from 'react-icons/lib/esm';
-import { RiExternalLinkLine } from 'react-icons/ri/index.js';
+import { IconType } from 'react-icons';
+import { RiExternalLinkLine } from 'react-icons/ri';
 
 import {
   generateExplorerLink,

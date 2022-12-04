@@ -1,7 +1,7 @@
 import { Link as RouterLink } from 'react-router-dom';
 import styled from 'styled-components';
 import { NavMenuBaseItemStyles } from '@daohaus/ui';
-import { RiArrowDropDownLine } from 'react-icons/ri/index.js';
+import { RiArrowDropDownLine } from 'react-icons/ri';
 
 export const NavRouterLink = styled(RouterLink)`
   ${NavMenuBaseItemStyles}

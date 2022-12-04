@@ -1,5 +1,5 @@
 import { ComponentMeta, ComponentStory } from '@storybook/react';
-import { RiAlertLine } from 'react-icons/ri/index.js';
+import { RiAlertLine } from 'react-icons/ri';
 
 import { Link } from './Link';
 

@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { RiErrorWarningLine } from 'react-icons/ri/index.js';
+import { RiErrorWarningLine } from 'react-icons/ri';
 import styled from 'styled-components';
 import { ExplorerLink } from '@daohaus/connect';
 import { Card, Icon, ParXs, Theme } from '@daohaus/ui';
