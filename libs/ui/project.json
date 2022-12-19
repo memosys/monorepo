@@ -18,6 +18,7 @@
         "compiler": "babel",
         "buildableProjectDepsInPackageJsonType": "dependencies",
         "extractCss": false,
+        "format": ["esm", "umd"],
         "assets": [
           {
             "glob": "libs/ui/README.md",
